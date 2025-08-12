@@ -1,2 +1,4 @@
-# trilha_html_modulo_1
-Projeto de uma página em HTML simples para aplicar os conhecimentos e tags aprendidas no módulo 1 da trilha HTML da DIO.
+# Página HTML
+
+## Landing page sobre astronomia para projeto de finalização do módulo 1 da trilha HTML da DIO.
+Dentre os arquivos, contém o HTML, o style em CSS e o README.md original do desafio.
